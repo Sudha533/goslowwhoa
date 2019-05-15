@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/goslowwhoa/static/css/main.c66f0261.chunk.css",
+    "main.js": "/goslowwhoa/static/js/main.59a3f9dc.chunk.js",
+    "main.js.map": "/goslowwhoa/static/js/main.59a3f9dc.chunk.js.map",
+    "runtime~main.js": "/goslowwhoa/static/js/runtime~main.37e6213b.js",
+    "runtime~main.js.map": "/goslowwhoa/static/js/runtime~main.37e6213b.js.map",
+    "static/js/2.0f58faaa.chunk.js": "/goslowwhoa/static/js/2.0f58faaa.chunk.js",
+    "static/js/2.0f58faaa.chunk.js.map": "/goslowwhoa/static/js/2.0f58faaa.chunk.js.map",
+    "index.html": "/goslowwhoa/index.html",
+    "precache-manifest.9582c39f6486408d549714dc80d8635c.js": "/goslowwhoa/precache-manifest.9582c39f6486408d549714dc80d8635c.js",
+    "service-worker.js": "/goslowwhoa/service-worker.js",
+    "static/css/main.c66f0261.chunk.css.map": "/goslowwhoa/static/css/main.c66f0261.chunk.css.map",
+    "static/media/index.css": "/goslowwhoa/static/media/body-background.0b89fbaf.jpg"
+  }
+}
