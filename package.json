@@ -2,6 +2,7 @@
   "name": "first-react-project",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://sudha533.github.io/goslowwhoa/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
